@@ -59,9 +59,14 @@ Crucially, the administrator's pay is securely handled through blockchain paymen
 
 With the use of blockchain technology, this framework enables administrators to play a crucial part in helping users reach their fitness objectives while upholding accountability and transparency.
 
+<img src="./assests/admin-signup.png" alt="Health-Hustle Dashboard" width="600">
+<img src="./assests/admin-login.png" alt="Health-Hustle Dashboard" width="600">
+
+
 ### 🔗 Group Info
 
 <img src="./assests/Group-i.png" alt="Health-Hustle Dashboard" width="600">
+
 
 Group Assignment and Competitive Elements:
 
