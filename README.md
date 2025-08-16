@@ -37,7 +37,7 @@ When you sign in, a Fitbit account will be created automatically if you don’t 
 
 <img src="./assests/fitbit-info.png" alt="FitBit-login" wifth="600">
 
-
+Here , you have to fill your personal information.
 
 
 
