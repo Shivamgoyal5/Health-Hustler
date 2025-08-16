@@ -5,7 +5,7 @@
 Health-Hustle is a full-stack fitness tracking dashboard that uses the Fitbit API to track and display personal fitness information in an interactive and fun manner. It supports progress tracking, health advice, leaderboard challenges,reward system and a responsive user interface.
 
 ---
-
+  
 ## 📑 Table of Contents
 
 - [Introduction](#introduction)
