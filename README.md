@@ -31,6 +31,8 @@ There are two ways to log in to our application: admin and user. Fitbit is used 
 
 Following successful payment and authentication, the system examines the user's Fitbit data and automatically places them in a particular fitness group according to their activity levels and health indicators. By promoting goal-oriented fitness progress and community involvement, this group-based assignment helps customize the user experience.
 
+<img src="./assests/fitbit-login.png" alt="FitBit-login" wifth="600">
+
 
 ### 👤 Admin Role
 
