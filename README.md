@@ -33,6 +33,8 @@ Following successful payment and authentication, the system examines the user's 
 
 <img src="./assests/fitbit-login.png" alt="FitBit-login" wifth="600">
 
+When you sign in, a Fitbit account will be created automatically if you don’t already have one.
+
 
 ### 👤 Admin Role
 
